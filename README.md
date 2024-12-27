@@ -1,4 +1,4 @@
-![I am mahmudul2024 ](https://github.com/mahmudul2024 /mahmudul2024 /blob/main/code.png)
+![I am mahmudul2024 ](https://github.com/mahmudul2024/code.png)
 
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
